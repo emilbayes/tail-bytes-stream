@@ -1,6 +1,6 @@
 {
   "name": "tail-bytes-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read `n` bytes from the end of a stream",
   "main": "index.js",
   "dependencies": {
