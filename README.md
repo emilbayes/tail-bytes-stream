@@ -1,5 +1,7 @@
 # `tail-bytes-stream`
 
+[![Build Status](https://travis-ci.org/emilbayes/tail-bytes-stream.svg?branch=master)](https://travis-ci.org/emilbayes/tail-bytes-stream)
+
 > Read `n` bytes from the end of a stream
 
 ## Usage
