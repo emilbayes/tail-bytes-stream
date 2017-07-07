@@ -1,0 +1,28 @@
+{
+  "name": "tail-bytes-stream",
+  "version": "1.0.0",
+  "description": "Read `n` bytes from the end of a stream",
+  "main": "index.js",
+  "dependencies": {
+    "nanoassert": "^1.0.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "choppa": "^1.0.2",
+    "tape": "^4.7.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/tail-bytes-stream.git"
+  },
+  "keywords": [],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/tail-bytes-stream/issues"
+  },
+  "homepage": "https://github.com/emilbayes/tail-bytes-stream#readme"
+}
